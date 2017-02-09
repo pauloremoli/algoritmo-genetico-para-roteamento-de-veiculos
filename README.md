@@ -7,6 +7,16 @@ http://www.slideshare.net/pauloremoli/um-algoritmo-gentico-para-o-problema-de-ro
 
 
 #Execução
-Excutar o arquivo Main.java e selecionar o arquivo de dados na pasta dados.
 
+Excutar o arquivo Main.java
 
+Na janela de configuração: 
+
+- Modificar os parâmetros de entrada do algoritmo conforme desejado.
+- Selecionar o arquivo de exemplo com a lista de clientes. Arquivo: "dados/E-n51-k5.vrp" - Este exemplo é para uma frota de 5 veículos atendenendo 50 clientes.
+- Clicar no botão executar.
+
+Resultados:
+
+- O melhor custo encontrado será apresentado na caixa de texto.
+- No mapa será apresentada a rota de cada veículo com uma cor diferente sempre iniciando e terminando no ponto zero (considerado como o depósito)
